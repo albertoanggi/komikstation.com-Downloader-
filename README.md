@@ -1,1 +1,1 @@
-# komikstation.com-Downloader-
+# komikstation.com (Downloader)
